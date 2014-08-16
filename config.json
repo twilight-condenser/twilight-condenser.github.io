@@ -1,9 +1,9 @@
 {
   "locals": {
-    "url": "http://localhost:8080",
-    "name": "The Wintersmith's blog",
-    "owner": "Someone",
-    "description": "Ramblings of an immor(t)al demigod"
+    "url": "http://twilight-condenser.github.io",
+    "name": "with twilight",
+    "owner": "shoota",
+    "description": "よなよな薄明かりを集めるブログ"
   },
   "plugins": [
     "./plugins/paginator.coffee"

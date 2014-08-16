@@ -1,0 +1,24 @@
+---
+title: 薄明かり集め、始めました。
+author: shoota
+date: 2014-08-16 15:00
+template: article.jade
+---
+
+薄明かりのした、バルブ撮影をした写真を淡々とアップしていこう。
+
+<span class="more"></span>
+
+
+
+<blockquote class="twitter-tweet" lang="ja"><p>薄明かり集め隊、入隊したい</p>&mdash; 水曜日のいぬ (@shoota) <a href="https://twitter.com/shoota/statuses/500546341311766529">2014, 8月 16</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet" lang="ja"><p><a href="https://twitter.com/shoota">@shoota</a> やろう(\( ⁰⊖⁰)/) たのしいよ</p>&mdash; taea (@ken_c_lo) <a href="https://twitter.com/ken_c_lo/statuses/500548940807151618">2014, 8月 16</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p>薄明かり、傍目には割と不審なので、職質に答えるシミュレーションとかしといた方がよさそう( ˘ω˘)</p>&mdash; taea (@ken_c_lo) <a href="https://twitter.com/ken_c_lo/statuses/500553643704082432">August 16, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+ﾄﾉｺﾄ
