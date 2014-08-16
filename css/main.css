@@ -13,16 +13,9 @@ body {
     background-image: linear-gradient(rgb(0, 4, 20) 0%, rgb(20, 40, 55) 100%);
 }
 
-.img{
-    width: 30%;
-    margin: 0 auto;
-}
-
-.lg-img{
-    width: 80%;
-    margin: 0 auto;
-    border: solid 1px;
-    margin-bottom: 10px;
+.photo {
+    border: solid rgb(98, 80, 2) 2px;
+    border-radius: 2px 2px;
 }
 
 .content-wrap {
