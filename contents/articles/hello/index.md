@@ -9,11 +9,7 @@ template: article.jade
 
 <span class="more"></span>
 
-
-
-<blockquote class="twitter-tweet" lang="ja"><p>薄明かり集め隊、入隊したい</p>&mdash; 水曜日のいぬ (@shoota) <a href="https://twitter.com/shoota/statuses/500546341311766529">2014, 8月 16</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+隊長はken_c_lo氏。かな？
 
 <blockquote class="twitter-tweet" lang="ja"><p><a href="https://twitter.com/shoota">@shoota</a> やろう(\( ⁰⊖⁰)/) たのしいよ</p>&mdash; taea (@ken_c_lo) <a href="https://twitter.com/ken_c_lo/statuses/500548940807151618">2014, 8月 16</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
