@@ -8,6 +8,7 @@ block content
         p.date
           span= moment.utc(article.date).format('DD. MMMM YYYY')
         h2
+          i.fa.fa-lightbulb-o.fa-lg &nbsp;
           a(href=article.url)= article.title
       section.content
         | !{ typogr(article.intro).typogrify() }
