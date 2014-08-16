@@ -23,6 +23,6 @@ git push origin master
 
 ## to branch buider
 git checkout builder
-git clean -f
+git clean -f -d -n
 
 echo "done!"
