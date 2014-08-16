@@ -18,7 +18,10 @@ cp -a ../twilight-build-temp/* ./
 rm -rf ../twilight-build-temp
 
 git add -A
-git commit -m "auto commit from deploy.sh"
+git commit -m "auto push contents from deploy.sh"
 git push origin master
 
-echo "\n\ndone!"
+## to branch buider
+git checkout builder
+
+echo "done!"
