@@ -5,9 +5,31 @@
     <atom:link href="http://twilight-condenser.github.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://twilight-condenser.github.io</link>
     <description>よなよな薄明かりを集めるブログ</description>
-    <pubDate>Sat, 16  Aug 2014 15:00:00 +0900</pubDate>
+    <pubDate>Fri, 22  Aug 2014 23:00:00 +0900</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>寝室を覗くと</title>
+      <link>http://twilight-condenser.github.io/articles/sleepingkids/</link>
+      <pubDate>Fri, 22  Aug 2014 23:00:00 +0900</pubDate>
+      <guid isPermaLink="true">http://twilight-condenser.github.io/articles/sleepingkids/</guid>
+      <author></author>
+      <description>&lt;p&gt;なぜか一枚の布団の上に偏ってくる兄弟。&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/photo/20140821.JPG&quot; class=&quot;photo&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>steel tower</title>
+      <link>http://twilight-condenser.github.io/articles/steel-tower/</link>
+      <pubDate>Sat, 16  Aug 2014 22:00:00 +0900</pubDate>
+      <guid isPermaLink="true">http://twilight-condenser.github.io/articles/steel-tower/</guid>
+      <author></author>
+      <description>&lt;p&gt;坂の街のせいか、いたるところに鉄塔が多い。&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/photo/20140818.JPG&quot; class=&quot;photo&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>薄明かり集め、始めました。</title>
       <link>http://twilight-condenser.github.io/articles/hello/</link>
@@ -26,17 +48,6 @@
 &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;ﾄﾉｺﾄ&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>steel tower</title>
-      <link>http://twilight-condenser.github.io/articles/steel-tower/</link>
-      <pubDate>Sat, 16  Aug 2014 15:00:00 +0900</pubDate>
-      <guid isPermaLink="true">http://twilight-condenser.github.io/articles/steel-tower/</guid>
-      <author></author>
-      <description>&lt;p&gt;坂の街のせいか、いたるところに鉄塔が多い。&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/img/photo/20140818.JPG&quot; class=&quot;photo&quot;&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
